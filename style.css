@@ -1,0 +1,6 @@
+.done {
+	text-decoration: line-through;
+	opacity: 0.5;  <--!when the user clicks Done , the task is strikethrough>  
+}
+li {cursor : pointer;}
+
